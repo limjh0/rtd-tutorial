@@ -11,6 +11,8 @@ how to :ref:`installation` the project.
 
 JH is testing following the tutorial.
 
+JH is checking toctree.
+
 .. note::
 
    This project is under active development.
